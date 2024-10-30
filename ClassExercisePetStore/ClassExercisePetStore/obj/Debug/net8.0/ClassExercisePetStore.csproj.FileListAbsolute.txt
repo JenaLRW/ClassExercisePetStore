@@ -1,0 +1,15 @@
+C:\Users\Jena & Matt\Documents\CodingProjects\Class Exercise Pet Store\ClassExercisePetStore\ClassExercisePetStore\bin\Debug\net8.0\ClassExercisePetStore.exe
+C:\Users\Jena & Matt\Documents\CodingProjects\Class Exercise Pet Store\ClassExercisePetStore\ClassExercisePetStore\bin\Debug\net8.0\ClassExercisePetStore.deps.json
+C:\Users\Jena & Matt\Documents\CodingProjects\Class Exercise Pet Store\ClassExercisePetStore\ClassExercisePetStore\bin\Debug\net8.0\ClassExercisePetStore.runtimeconfig.json
+C:\Users\Jena & Matt\Documents\CodingProjects\Class Exercise Pet Store\ClassExercisePetStore\ClassExercisePetStore\bin\Debug\net8.0\ClassExercisePetStore.dll
+C:\Users\Jena & Matt\Documents\CodingProjects\Class Exercise Pet Store\ClassExercisePetStore\ClassExercisePetStore\bin\Debug\net8.0\ClassExercisePetStore.pdb
+C:\Users\Jena & Matt\Documents\CodingProjects\Class Exercise Pet Store\ClassExercisePetStore\ClassExercisePetStore\obj\Debug\net8.0\ClassExercisePetStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jena & Matt\Documents\CodingProjects\Class Exercise Pet Store\ClassExercisePetStore\ClassExercisePetStore\obj\Debug\net8.0\ClassExercisePetStore.AssemblyInfoInputs.cache
+C:\Users\Jena & Matt\Documents\CodingProjects\Class Exercise Pet Store\ClassExercisePetStore\ClassExercisePetStore\obj\Debug\net8.0\ClassExercisePetStore.AssemblyInfo.cs
+C:\Users\Jena & Matt\Documents\CodingProjects\Class Exercise Pet Store\ClassExercisePetStore\ClassExercisePetStore\obj\Debug\net8.0\ClassExercisePetStore.csproj.CoreCompileInputs.cache
+C:\Users\Jena & Matt\Documents\CodingProjects\Class Exercise Pet Store\ClassExercisePetStore\ClassExercisePetStore\obj\Debug\net8.0\ClassExercisePetStore.sourcelink.json
+C:\Users\Jena & Matt\Documents\CodingProjects\Class Exercise Pet Store\ClassExercisePetStore\ClassExercisePetStore\obj\Debug\net8.0\ClassExercisePetStore.dll
+C:\Users\Jena & Matt\Documents\CodingProjects\Class Exercise Pet Store\ClassExercisePetStore\ClassExercisePetStore\obj\Debug\net8.0\refint\ClassExercisePetStore.dll
+C:\Users\Jena & Matt\Documents\CodingProjects\Class Exercise Pet Store\ClassExercisePetStore\ClassExercisePetStore\obj\Debug\net8.0\ClassExercisePetStore.pdb
+C:\Users\Jena & Matt\Documents\CodingProjects\Class Exercise Pet Store\ClassExercisePetStore\ClassExercisePetStore\obj\Debug\net8.0\ClassExercisePetStore.genruntimeconfig.cache
+C:\Users\Jena & Matt\Documents\CodingProjects\Class Exercise Pet Store\ClassExercisePetStore\ClassExercisePetStore\obj\Debug\net8.0\ref\ClassExercisePetStore.dll
